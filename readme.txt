@@ -2,5 +2,5 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-这是dev分支提交的内容222
+这是主干存在bug的状态
 
